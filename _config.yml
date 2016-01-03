@@ -1,7 +1,7 @@
 name: UnityStreet
 favicon: null
-layout_spectrum: 0.3584347984287888
-typography_spectrum: 0.8368158866651356
+layout_spectrum: 0.28304
+typography_spectrum: 0.00156
 title: Unity Street
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.07883858657442033
-  lightness: 0.6373465845827013
-  saturation: 0.2154739371035248
-  rhythmicContrast: 0.449335306417197
+    - '#000000'
+    - '#ffffff'
+    - '#1479ec'
+    - '#cdcdcd'
+    - '#8b8b8b'
+  brandStrength: 0.9375
+  lightness: 0.25
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
