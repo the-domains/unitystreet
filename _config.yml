@@ -1,20 +1,4 @@
-name: UnityStreet
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.00156
-title: Unity Street
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#000000'
@@ -22,8 +6,13 @@ color:
     - '#1479ec'
     - '#cdcdcd'
     - '#8b8b8b'
-  brandStrength: 0.9375
-  lightness: 0.25
-  saturation: 0.0625
-  rhythmicContrast: 0.75
+  brandStrength: 0.986842
+  lightness: 0.594572
+  rhythmicContrast: 0.773848
+  saturation: 0.671052
+cta: {}
+layout_spectrum: 0.476151
+name: UnityStreet
+opengraph: {}
 purpose: []
+typography_spectrum: 0.080592
