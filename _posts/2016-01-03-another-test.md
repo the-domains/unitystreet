@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-03T11:31:14.708Z'
-dateModified: '2016-01-03T11:31:02.168Z'
+datePublished: '2016-01-03T11:33:12.272Z'
+dateModified: '2016-01-03T11:32:32.012Z'
 title: Another test
 author: []
 authors: []
